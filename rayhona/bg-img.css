@@ -14,3 +14,11 @@
     background-size: cover;
     margin-top: 40px;
 }
+.bg3 {
+    background-image: url(./foto/Mask\ Group\ \(6\).png);
+    width: 100%;
+    height: 630px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+}
